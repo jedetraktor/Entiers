@@ -1,0 +1,8 @@
+nombre = float(input("Saissisez un nombre :"))
+
+if nombre > 0 :
+   print("Positif")
+if nombre < 0 :
+  print("Négatif")
+if nombre == 0 :
+   print("Nul")
